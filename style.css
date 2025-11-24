@@ -1,0 +1,17 @@
+body {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: rgb(237, 223, 185)
+}
+
+h1 {
+  color: brown
+    
+}
+
+ul {
+  color: brown
+  
+}
